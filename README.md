@@ -3,7 +3,7 @@
 
 ### I am a software engineer who loves to
 
-![code](coding.png?raw=true "Code" =8x8)
+![code](coding.png?raw=true "Code"){:height="50%" width="50%"}
 
 ### [More about me](https://arvindkgs.com)
 
