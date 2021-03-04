@@ -1,4 +1,4 @@
-## :pray: Namaskara, welcome to my GitHub Profile
+## :pray: Namaskara
 ------------------
 
 ### I am a software engineer who loves to
