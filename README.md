@@ -1,6 +1,8 @@
 ## :pray: Namaskara, welcome to my GitHub Profile
 
-### I am software engineer. I love to hack on :computer:, experiment  and try out new things.
+### I am a [programmer](https://github.com/arvindkgs/arvindkgs/blob/main/programmer.png?raw=true) 
+
+### I love to hack on :computer:, experiment  and try out new things.
 
 
 
