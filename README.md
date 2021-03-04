@@ -1,6 +1,6 @@
 ## :pray: Namaskara
 
-### I am a software engineer who loves to <img src="https://github.com/arvindkgs/arvindkgs/blob/main/coding.png?raw=true" width="40" height="40">
+### I am a software engineer who loves to <img src="https://github.com/arvindkgs/arvindkgs/blob/main/programmer.png?raw=true" width="40" height="40">
 
 
 ### [More about me](https://arvindkgs.com)
