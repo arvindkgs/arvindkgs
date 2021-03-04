@@ -1,9 +1,8 @@
 ## :pray: Namaskara
 ------------------
 
-### I am a software engineer who loves to
+### I am a software engineer who loves to <img src="https://github.com/arvindkgs/arvindkgs/blob/main/coding.png?raw=true" width="8" height="8">
 
-![code](coding.png?raw=true =8x8)
 
 ### [More about me](https://arvindkgs.com)
 
