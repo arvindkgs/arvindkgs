@@ -3,7 +3,7 @@
 
 ### I am a software engineer who loves to
 
-![code](coding.png?raw=true "Code")
+![code](coding.png?raw=true "Code" =8x8)
 
 ### [More about me](https://arvindkgs.com)
 
